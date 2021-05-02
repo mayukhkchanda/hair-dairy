@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hair-dairy/static/css/main.bc19de40.chunk.css",
+    "main.css": "/hair-dairy/static/css/main.26390d48.chunk.css",
     "main.js": "/hair-dairy/static/js/main.a1a246d4.chunk.js",
     "main.js.map": "/hair-dairy/static/js/main.a1a246d4.chunk.js.map",
     "runtime-main.js": "/hair-dairy/static/js/runtime-main.01e44801.js",
@@ -8,13 +8,13 @@
     "static/js/2.cf42dc6c.chunk.js": "/hair-dairy/static/js/2.cf42dc6c.chunk.js",
     "static/js/2.cf42dc6c.chunk.js.map": "/hair-dairy/static/js/2.cf42dc6c.chunk.js.map",
     "index.html": "/hair-dairy/index.html",
-    "static/css/main.bc19de40.chunk.css.map": "/hair-dairy/static/css/main.bc19de40.chunk.css.map",
+    "static/css/main.26390d48.chunk.css.map": "/hair-dairy/static/css/main.26390d48.chunk.css.map",
     "static/js/2.cf42dc6c.chunk.js.LICENSE.txt": "/hair-dairy/static/js/2.cf42dc6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01e44801.js",
     "static/js/2.cf42dc6c.chunk.js",
-    "static/css/main.bc19de40.chunk.css",
+    "static/css/main.26390d48.chunk.css",
     "static/js/main.a1a246d4.chunk.js"
   ]
 }
